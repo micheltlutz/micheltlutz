@@ -8,6 +8,9 @@
 - [Promessas Biblicas](https://apps.apple.com/br/app/graphi/id1354945809)
 - [Calcula Freela](https://apps.apple.com/br/app/graphi/id1252384255)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltlutz&layout=compact&theme=react)](https://github.com/micheltlutz/github-readme-stats)
+
 **Coding Activity**
 
 <p align="left">
