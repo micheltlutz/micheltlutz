@@ -1,6 +1,14 @@
 ### [Michel Lutz](https://micheltlutz.me)
 
-🏗 WIP 🏗
+Hello. My name is Michel, I'm a swift developer and I create some open-source Swift libraries and make them available on my GitHub.
+
+I am currently focused on the [jumpper library](https://github.com/jumpper/jumpper).
+Is an open source framework, which is independent of other web frameworks or toolkits available on the market, such as Vapor, Kitura and Perfect. It can be used in conjunction with any of them and even alone. This shows how simple it is to build HTML pages using only Swift.
+The idea of this library is to facilitate the creation of static or dynamic pages.
+About 10 years ago I developed a library similar to this one, but in another language, it streamlined many projects that I developed.
+I decided to bring these concepts to the language I use today.
+The project is still under development, feel free to collaborate and leave suggestions, fork and share.
+I hope it will be useful for more developers.
 
 **Published Apps**
 
@@ -8,6 +16,19 @@
 - [Promessas Biblicas](https://apps.apple.com/br/app/graphi/id1354945809)
 - [Calcula Freela](https://apps.apple.com/br/app/graphi/id1252384255)
 
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/micheltlutz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
+
+### My Links
+
+- [Site](https://www.michellutz.me/)
+- [LinkedIn](https://www.linkedin.com/in/michellutz/)
+- [Twitter](https://twitter.com/michel_lutz)
+- [My drone instagram](https://www.instagram.com/cadeodrone/)
+- [Medium](https://micheltlutz.medium.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltlutz&layout=compact&theme=react)](https://github.com/micheltlutz/github-readme-stats)
 
