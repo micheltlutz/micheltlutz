@@ -25,10 +25,12 @@ I hope it will be useful for more developers.
 ### My Links
 
 - [Site](https://www.michellutz.me/)
+- [My Resume](http://micheltlutz.me/imagens/curriculo/Resume-Michel-Anderson-Lutz-Teixeira.pdf)
 - [LinkedIn](https://www.linkedin.com/in/michellutz/)
 - [Twitter](https://twitter.com/michel_lutz)
 - [My drone instagram](https://www.instagram.com/cadeodrone/)
 - [Medium](https://micheltlutz.medium.com)
+- [My Favorite Links](https://github.com/micheltlutz/favorite-links)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltlutz&layout=compact&theme=react)](https://github.com/micheltlutz/github-readme-stats)
 
