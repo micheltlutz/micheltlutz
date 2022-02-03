@@ -1,6 +1,6 @@
 ### [Michel Lutz](https://micheltlutz.me)
 
-Hello. My name is Michel, I'm a swift developer and I create some open-source Swift libraries and make them available on my GitHub.
+Hello. My name is Michel, dngineering Coordinator at [Compass.UOL](https://compass.uol) with over 15 years of experience in Software development and architecture construction for mobile applications. Studying an MBA in Data Science for Business at PUCRS and has already taught Scrum training in Rio Grande do Sul.
 
 I am currently focused on the [jumpper library](https://github.com/jumpper/jumpper).
 Is an open source framework, which is independent of other web frameworks or toolkits available on the market, such as Vapor, Kitura and Perfect. It can be used in conjunction with any of them and even alone. This shows how simple it is to build HTML pages using only Swift.
@@ -25,9 +25,8 @@ I hope it will be useful for more developers.
 ### My Links
 
 - [Site](https://www.michellutz.me/)
-- [My Resume](http://micheltlutz.me/imagens/curriculo/Resume-Michel-Anderson-Lutz-Teixeira.pdf)
 - [LinkedIn](https://www.linkedin.com/in/michellutz/)
-- [Twitter](https://twitter.com/michel_lutz)
+- [Twitter](https://twitter.com/micheltlutz)
 - [My drone instagram](https://www.instagram.com/cadeodrone/)
 - [Medium](https://micheltlutz.medium.com)
 - [My Favorite Links](https://github.com/micheltlutz/favorite-links)
@@ -46,18 +45,3 @@ I hope it will be useful for more developers.
       <img src="https://badges.pufler.dev/visits/micheltlutz/micheltlutz" alt="micheltlutz badge" />
    </a>
 </p>
-
-<!--
-**micheltlutz/micheltlutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
