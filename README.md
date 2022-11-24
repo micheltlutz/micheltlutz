@@ -1,6 +1,20 @@
 ### [Michel Lutz](https://micheltlutz.me)
 
-Hello. My name is Michel, dngineering Coordinator at [Compass.UOL](https://compass.uol) with over 15 years of experience in Software development and architecture construction for mobile applications. Studying an MBA in Data Science for Business at PUCRS and has already taught Scrum training in Rio Grande do Sul.
+Hello. My name is Michel, Currently I work as Tech Manager being responsible for the knowledge base and structure of Innovation Studio Modern Applications and Mobile App at [Compass.UOL](https://compass.uol).
+
+- Chapters
+- Learning trails
+- accelerators and research & development
+
+With the challenge of managing these fronts for approximately 850 employees who make up the Innovation Studio today and for the new employees who will come from our scholarship programs.
+
+With more than 15 years of experience in software development and building architecture for mobile applications.
+I have an MBA in Data Science for Business from PUCRS. I already teach Scrum training in Rio Grande do Sul.
+
+I have several certifications in managing agile, scalable, people management and scale framework projects.
+In preparation for ITIL 4 certification
+AWS Cloud Practitioner certification and in preparation for AWS Solutions Architect certification
+
 
 I am currently focused on the [jumpper library](https://github.com/jumpper/jumpper).
 Is an open source framework, which is independent of other web frameworks or toolkits available on the market, such as Vapor, Kitura and Perfect. It can be used in conjunction with any of them and even alone. This shows how simple it is to build HTML pages using only Swift.
