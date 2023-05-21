@@ -8,7 +8,7 @@ Hello. My name is Michel, Currently I work as Tech Manager being responsible for
 
 With the challenge of managing these fronts for approximately 850 employees who make up the Innovation Studio today and for the new employees who will come from our scholarship programs.
 
-With more than 15 years of experience in software development and building architecture for mobile applications.
+With more than 18 years of experience in software development and building architecture for mobile applications.
 I have an MBA in Data Science for Business from PUCRS. I already teach Scrum training in Rio Grande do Sul.
 
 I have several certifications in managing agile, scalable, people management and scale framework projects.
