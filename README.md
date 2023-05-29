@@ -52,16 +52,3 @@ Se gosta do meu conteúdo, você pode demonstrar o seu apoio com uma contribuiç
 - [My Favorite Links](https://github.com/micheltlutz/favorite-links)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltlutz&layout=compact&theme=react)](https://github.com/micheltlutz/github-readme-stats)
-
-**Coding Activity**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=micheltlutz&show_icons=true&theme=tokyonight" alt="micheltlutz's github stats" />
-</p>
-
-<br/>
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/micheltlutz/micheltlutz" alt="micheltlutz badge" />
-   </a>
-</p>
