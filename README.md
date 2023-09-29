@@ -32,6 +32,7 @@ I possess multiple certifications in agile project management, scalable manageme
 ### Learn more:
 
 - [Medium](https://micheltlutz.medium.com)
+- [Sponsor me](https://github.com/sponsors/micheltlutz)
 - [Me Paga um café?](https://mepagaumcafe.com.br/micheltlutz/)
 - [Site](https://www.michellutz.me/)
 - [LinkedIn](https://www.linkedin.com/in/michellutz/)
@@ -39,6 +40,7 @@ I possess multiple certifications in agile project management, scalable manageme
 - [My instagram](https://www.instagram.com/micheltlutzphoto/)
 - [My Badges](https://www.credly.com/users/michel-lutz/badges)
 - [More Badges](https://brasilopenbadge.com.br/pages/profile/michel-anderson-lutz-teixeira)
+- [My Favorite Links](https://github.com/micheltlutz/favorite-links)
 
 Currently, I serve as a Tech Manager, responsible for the foundation and structure of Knowledge, chapters, learning paths, accelerators, and R&D at the Innovation Studio Modern Applications and Mobile App. I mentor emerging leaders and supervise scholarship students, managing a multidisciplinary team within the studio responsible for building a strategic accelerator for the company.
 
@@ -50,16 +52,5 @@ Currently, I serve as a Tech Manager, responsible for the foundation and structu
 I am tasked with managing this structure for over 900 employees at the Innovation Studio and incoming scholarship program members.
 
 
-<p align="center">
-<a href="https://mepagaumcafe.com.br/micheltlutz/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p>
-
-<p align="center">
-[pt-br]Apoie o meu trabalho
-Se gosta do meu conteúdo, você pode demonstrar o seu apoio com uma contribuição e me ajudar produzir ainda mais.
-  Abaixo um link caso você queira me pagar um café.
-</p>
-
-- [My Favorite Links](https://github.com/micheltlutz/favorite-links)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltlutz&layout=compact&theme=react)](https://github.com/micheltlutz/github-readme-stats)
