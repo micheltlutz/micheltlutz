@@ -1,6 +1,6 @@
 ### [Michel Lutz](https://micheltlutz.me)
 
-Hello. My name is Michel, Currently I work as Tech Manager being responsible for the knowledge base and structure of Innovation Studio Modern Applications and Mobile App at [Compass.UOL](https://compass.uol).
+Hello. My name is Michel, Currently I work as Tech Manager being responsible for the knowledge base and structure of Innovation Studio Modern Applications and Mobile Apps at [Compass.UOL](https://compass.uol).
 With 18 years of experience in software development and mobile app architecture, I have a passion for data and AI.
 
 
