@@ -1,10 +1,12 @@
 ### [Michel Lutz](https://micheltlutz.me)
 
+- [Visit my site](https://micheltlutz.me)
+
 Hello. My name is Michel, Currently I work as Mobile Architecture Manager of [Innovation Studio Mobile Apps](https://compass.uol/pt/studios/modern-application-mobile-apps/) at [Compass.UOL](https://compass.uol).
 With 18 years of experience in software development and mobile app architecture, I have a passion for data and AI.
 
 
-At present, I maintain two open-source code repositories. The first one is the "[Winged-Python](https://github.com/micheltlutz/Winged-Python)" library, an independent open-source framework written in Python. And [Winged-Swift](https://github.com/micheltlutz/Winged-Swift) write in Swift, replacing the old project called 'jumpper.' Unlike other web frameworks or toolkits available in the market, such as Vapor, Kitura, Perfect, FastAPI, Flask, etc., 'Winged-Python' can stand alone or be used in conjunction with any of them. It demonstrates the simplicity of building HTML pages using Swift and Python alone. The purpose of this library is to streamline the creation of both static and dynamic web pages. About a decade ago, I developed a similar library in a different language, which sped up several projects. I decided to introduce these concepts into the languages I currently use. The project is a work in progress, and I welcome contributions, suggestions, forks, and shares. I hope it helps many developers.
+At present, I maintain two open-source code repositories. The first one is the [Winged-Python](https://github.com/micheltlutz/Winged-Python) library, an independent open-source framework written in Python. And [Winged-Swift](https://github.com/micheltlutz/Winged-Swift) write in Swift, replacing the old project called 'jumpper.' Unlike other web frameworks or toolkits available in the market, such as Vapor, Kitura, Perfect, FastAPI, Flask, etc., 'Winged-Python' can stand alone or be used in conjunction with any of them. It demonstrates the simplicity of building HTML pages using Swift and Python alone. The purpose of this library is to streamline the creation of both static and dynamic web pages. About a decade ago, I developed a similar library in a different language, which sped up several projects. I decided to introduce these concepts into the languages I currently use. The project is a work in progress, and I welcome contributions, suggestions, forks, and shares. I hope it helps many developers.
 
 The other repository I oversee is "[dev-challenge](https://github.com/micheltlutz/dev-challenge)." It's a software development challenges repository, allowing one to enhance coding skills by implementing real-world problem solutions.
 
