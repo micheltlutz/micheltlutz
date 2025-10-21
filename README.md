@@ -1,58 +1,125 @@
-### [Michel Lutz](https://micheltlutz.me)
+# 👋 Hello, I'm Michel Lütz
 
-- [Visit my site](https://micheltlutz.me)
+> **Technical Pre-Sales & Mobile Solutions Architecture Expert** | **20+ years of experience** | **AI/R Company**
 
-Hello. My name is Michel, Currently I work as Mobile Architecture Manager of [Innovation Studio Mobile Apps](https://compass.uol/pt/studios/modern-application-mobile-apps/) at [Compass.UOL](https://compass.uol).
-With 18 years of experience in software development and mobile app architecture, I have a passion for data and AI.
+[![Website](https://img.shields.io/badge/Website-micheltlutz.me-ff6b35?style=flat-square&logo=vercel)](https://micheltlutz.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michellutz-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/michellutz/)
+[![Instagram](https://img.shields.io/badge/Instagram-the.michel.lutz-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/the.michel.lutz/)
+[![YouTube](https://img.shields.io/badge/YouTube-Michel_Lutz-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCfRIPuJSNaW2ZXUJWVpNpUg)
+[![Medium](https://img.shields.io/badge/Medium-micheltlutz-12100E?style=flat-square&logo=medium)](https://micheltlutz.medium.com)
 
+---
 
-At present, I maintain two open-source code repositories. The first one is the [Winged-Python](https://github.com/micheltlutz/Winged-Python) library, an independent open-source framework written in Python. And [Winged-Swift](https://github.com/micheltlutz/Winged-Swift) write in Swift, replacing the old project called 'jumpper.' Unlike other web frameworks or toolkits available in the market, such as Vapor, Kitura, Perfect, FastAPI, Flask, etc., 'Winged-Python' can stand alone or be used in conjunction with any of them. It demonstrates the simplicity of building HTML pages using Swift and Python alone. The purpose of this library is to streamline the creation of both static and dynamic web pages. About a decade ago, I developed a similar library in a different language, which sped up several projects. I decided to introduce these concepts into the languages I currently use. The project is a work in progress, and I welcome contributions, suggestions, forks, and shares. I hope it helps many developers.
+## 🚀 About Me
 
-The other repository I oversee is "[dev-challenge](https://github.com/micheltlutz/dev-challenge)." It's a software development challenges repository, allowing one to enhance coding skills by implementing real-world problem solutions.
+Hi! I'm **Michel Lütz**, a father, husband, and **Technical Pre-Sales & Mobile Solutions Architecture Expert** with over **20 years of experience** in technology.
 
-This project is tailored to reinforce the studies of professionals in web, mobile, and back-end development, presenting a plethora of practical challenges.
+I work within the **[AI/R Company ecosystem](https://aircompany.ai/en/home/)** — a global innovation group focused on Artificial Intelligence — where I serve as a key reference for mobile architecture and technical pre-sales, supporting all group companies in the design, evolution, and validation of AI-oriented mobile solutions.
 
-For front-end developers, we offer a ready-to-use API set up to run in a Docker environment. This API comprises routes for listings, authentication, user creation, login, and more, enabling the developer to mainly focus on design and interface implementation.
+### 🎯 My Main Responsibilities:
 
-The challenge for back-end developers is to replicate the pre-built routes in their preferred programming language and then create relevant documentation.
+- **Defining and validating cross-platform mobile architectures** (iOS, Android, Flutter, React Native) aligned with microservices, scalable APIs, and AI integrations
+- **Leading global technical pre-sales initiatives**, transforming business requirements into clear and sustainable architectural solutions
+- **Supporting multiple AI/R companies** in modernizing mobile applications and implementing Server-Driven UI and super-app ecosystems
+- **Providing technical mentorship** to leaders and engineers, reinforcing engineering excellence, scalability, and system design practices
+- **Collaborating with product, engineering, and AI teams** to accelerate critical deliveries, optimize workflows, and create high-impact digital experiences
+- **Developing internal frameworks and reference guides** to standardize mobile solutions at a global scale
 
-### More about me
+As an entrepreneur, I founded and led **Masters MX**, a company dedicated to web and mobile development, and I continue to apply that innovative mindset in every new project.
 
-I hold an MBA in Data Science for Business from PUCRS and am currently pursuing an MBA in BI, Digital Marketing, and Data-Driven Strategy.
+Beyond technology, I'm passionate about **motorcycling, photography, and 3D printing**, which I share with my wife through [Casa Vivaro](https://casavivaro.com.br), our 3D design and lifestyle brand.
 
-I've conducted Scrum training in educational institutions and in-house across various locations in Rio Grande do Sul.
+---
 
-I possess multiple certifications in agile project management, scalable management, people management, and scaling frameworks:
+## 🛠️ Open Source Projects
 
-- ITIL 4 Foundations Certified
-- SAFe Agilist 4 Certified
-- CSM
-- CSPO
-- CAC - Certified Agile Coach
-- AWS Cloud Practitioner Certification and preparing for AWS Solutions Architect Certification
+### [Winged-Swift](https://github.com/micheltlutz/Winged-Swift) 🦅
+> **Swift framework for static and dynamic HTML generation**
 
-### Learn more:
+An innovative framework that allows you to create static websites using only Swift, with no external dependencies. Perfect for developers who want to leverage Swift's simplicity for web development.
 
-- [Medium](https://micheltlutz.medium.com)
-- [Sponsor me](https://github.com/sponsors/micheltlutz)
-- [Me Paga um café?](https://mepagaumcafe.com.br/micheltlutz/)
-- [Site](https://www.michellutz.me/)
-- [LinkedIn](https://www.linkedin.com/in/michellutz/)
-- [Twitter](https://twitter.com/micheltlutz)
-- [My instagram](https://www.instagram.com/micheltlutzphoto/)
-- [My Badges](https://www.credly.com/users/michel-lutz/badges)
-- [More Badges](https://brasilopenbadge.com.br/pages/profile/michel-anderson-lutz-teixeira)
-- [My Favorite Links](https://github.com/micheltlutz/favorite-links)
+```swift
+// Usage example
+let page = HTML(children: [
+    Head(children: [
+        Title(content: "My Site"),
+        Link(rel: "stylesheet", href: "/style.css")
+    ]),
+    Body(children: [
+        H1(content: "Hello, World!")
+    ])
+])
+```
 
-Currently, I serve as a Tech Manager, responsible for the foundation and structure of Knowledge, chapters, learning paths, accelerators, and R&D at the Innovation Studio Modern Applications and Mobile Apps. I mentor emerging leaders and supervise scholarship students, managing a multidisciplinary team within the studio responsible for building a strategic accelerator for the company.
+### [Winged-Python](https://github.com/micheltlutz/Winged-Python) 🐍
+> **Independent Python framework for HTML generation**
 
-- Accelerators and R&D
-- Learning paths
-- Chapters
-- Certifications
+Similar to Winged-Swift, but for Python. Can be used standalone or integrated with frameworks like FastAPI, Flask, Django, etc.
 
-I am tasked with managing this structure for over 900 employees at the Innovation Studio and incoming scholarship program members.
+### [dev-challenge](https://github.com/micheltlutz/dev-challenge) 💻
+> **Software development challenges repository**
 
+Practical challenges for front-end, back-end, and mobile developers, with ready-to-use APIs in Docker for development focus.
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltlutz&layout=compact&theme=react)](https://github.com/micheltlutz/github-readme-stats)
+## 🎓 Education & Certifications
+
+### 📚 Education
+- **MBA in Data Science for Business** - PUCRS
+- **MBA in Business Intelligence & Business Technology** - Focus on AI and Big Data
+
+### 🏆 AWS Certifications
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified AI Practitioner**
+- **AWS Certified Cloud Practitioner**
+
+### 🏆 Other Certifications
+- **CAPM® (Certified Associate in Project Management)** - PMI
+- **ITIL® Foundation**
+- **Kanban KMP I®**
+
+These credentials reflect a deep understanding of AWS services and the ability to design secure, scalable, resilient, and efficient distributed systems based on well-architected design principles.
+
+---
+
+## 📊 GitHub Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltlutz&layout=compact&theme=react&hide_border=true)](https://github.com/micheltlutz/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=micheltlutz&show_icons=true&theme=react&hide_border=true)](https://github.com/micheltlutz/github-readme-stats)
+
+---
+
+## 🌐 Connect with Me
+
+[![Website](https://img.shields.io/badge/🌐_Website-micheltlutz.me-ff6b35?style=for-the-badge)](https://micheltlutz.me)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-michellutz-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michellutz/)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-the.michel.lutz-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/the.michel.lutz/)
+[![YouTube](https://img.shields.io/badge/📺_YouTube-Michel_Lutz-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCfRIPuJSNaW2ZXUJWVpNpUg)
+[![Medium](https://img.shields.io/badge/📝_Medium-micheltlutz-12100E?style=for-the-badge&logo=medium)](https://micheltlutz.medium.com)
+
+### 💡 Other Links
+- [🏆 My Badges - Credly](https://www.credly.com/users/michel-lutz/badges)
+- [🎖️ PMI Profile](https://www.pmi.org/certifications/certification-resources/registry)
+- [📚 Currículo Lattes](http://lattes.cnpq.br/8965643025044184)
+- [🔗 Favorite Links](https://github.com/micheltlutz/favorite-links)
+- [🎨 Casa Vivaro - 3D Design & Lifestyle](https://casavivaro.com.br)
+- [☕ Buy Me a Coffee?](https://mepagaumcafe.com.br/micheltlutz/)
+- [💖 Sponsor me](https://github.com/sponsors/micheltlutz)
+
+---
+
+## 🎯 Expertise
+
+- **Mobile Architecture** & iOS/Android Development
+- **AI & Machine Learning** 
+- **Data Science & Analytics**
+- **Team Leadership** & Agile Management
+- **Open Source Development**
+- **Technical Mentoring**
+
+---
+
+*"Transforming ideas into code, code into solutions, and solutions into real impact."* 🚀
+
