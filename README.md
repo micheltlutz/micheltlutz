@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-micheltlutz.me-ff6b35?style=flat-square&logo=vercel)](https://micheltlutz.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-michellutz-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/michellutz/)
-[![Instagram](https://img.shields.io/badge/Instagram-the.michel.lutz-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/the.michel.lutz/)
+[![Instagram](https://img.shields.io/badge/Instagram-ml3d.print-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/ml3d.print/)
 [![YouTube](https://img.shields.io/badge/YouTube-Michel_Lutz-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCfRIPuJSNaW2ZXUJWVpNpUg)
 [![Medium](https://img.shields.io/badge/Medium-micheltlutz-12100E?style=flat-square&logo=medium)](https://micheltlutz.medium.com)
 
