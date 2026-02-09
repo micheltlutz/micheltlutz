@@ -58,7 +58,7 @@ let page = HTML(children: [
 ### [frida-ios-dump-swift](https://github.com/micheltlutz/frida-ios-dump-swift) 📱
 > **Dump decrypted IPAs from jailbroken iOS devices via Frida**
 
-**Swift** reimplementation of [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) (Python), using the [frida-swift](https://github.com/frida/frida-swift) bindings. Lists installed apps and extracts decrypted IPAs from jailbroken iOS devices via USB and Frida.
+[frida-ios-dump-swift](https://github.com/micheltlutz/frida-ios-dump-swift) is my **Swift** reimplementation of [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) (Python), using the [frida-swift](https://github.com/frida/frida-swift) bindings. Lists installed apps and extracts decrypted IPAs from jailbroken iOS devices via USB and Frida.
 
 ### [dev-challenge](https://github.com/micheltlutz/dev-challenge) 💻
 > **Software development challenges repository**
