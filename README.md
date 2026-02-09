@@ -29,6 +29,10 @@ As an entrepreneur, I founded and led **Masters MX**, a company dedicated to web
 
 Beyond technology, I'm passionate about **motorcycling, photography, and 3D printing**, which I share with my wife through [Casa Vivaro](https://casavivaro.com.br), our 3D design and lifestyle brand.
 
+### 🔒 Security & Forensics
+
+On [my website](https://micheltlutz.me/en/) I also work in **mobile solutions architecture | judicial and extrajudicial forensics**: technical analysis of code, vulnerabilities, security and data privacy in the mobile ecosystem, with technical opinions and expert reports to support legal strategies. Experience in **Mobile Application Security Testing (MAST)**, dynamic instrumentation ([Frida](https://frida.re/)), [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF), static and dynamic analysis, reverse engineering and security auditing; token management (OAuth2/OIDC), certificate pinning, obfuscation and RASP.
+
 ---
 
 ## 🛠️ Open Source Projects
@@ -61,6 +65,11 @@ Similar to Winged-Swift, but for Python. Can be used standalone or integrated wi
 
 Practical challenges for front-end, back-end, and mobile developers, with ready-to-use APIs in Docker for development focus.
 
+### [frida-ios-dump-swift](https://github.com/micheltlutz/frida-ios-dump-swift) 📱
+> **Dump decrypted IPAs from jailbroken iOS devices via Frida**
+
+**Swift** reimplementation of [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) (Python), using the [frida-swift](https://github.com/frida/frida-swift) bindings. Lists installed apps and extracts decrypted IPAs from jailbroken iOS devices via USB and Frida.
+
 ---
 
 ## 🎓 Education & Certifications
@@ -80,22 +89,13 @@ Practical challenges for front-end, back-end, and mobile developers, with ready-
 - **Kanban KMP I®**
 
 These credentials reflect a deep understanding of AWS services and the ability to design secure, scalable, resilient, and efficient distributed systems based on well-architected design principles.
-
----
-
-## 📊 GitHub Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltlutz&layout=compact&theme=react&hide_border=true)](https://github.com/micheltlutz/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=micheltlutz&show_icons=true&theme=react&hide_border=true)](https://github.com/micheltlutz/github-readme-stats)
-
 ---
 
 ## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/🌐_Website-micheltlutz.me-ff6b35?style=for-the-badge)](https://micheltlutz.me)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-michellutz-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michellutz/)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-the.michel.lutz-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/the.michel.lutz/)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-ML3D.Print-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ml3d.print/)
 [![YouTube](https://img.shields.io/badge/📺_YouTube-Michel_Lutz-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCfRIPuJSNaW2ZXUJWVpNpUg)
 [![Medium](https://img.shields.io/badge/📝_Medium-micheltlutz-12100E?style=for-the-badge&logo=medium)](https://micheltlutz.medium.com)
 
@@ -104,7 +104,7 @@ These credentials reflect a deep understanding of AWS services and the ability t
 - [🎖️ PMI Profile](https://www.pmi.org/certifications/certification-resources/registry)
 - [📚 Currículo Lattes](http://lattes.cnpq.br/8965643025044184)
 - [🔗 Favorite Links](https://github.com/micheltlutz/favorite-links)
-- [🎨 Casa Vivaro - 3D Design & Lifestyle](https://casavivaro.com.br)
+- [🎨 ML3dPrint - 3D Design & Lifestyle](https://ml3dprint.com.br)
 - [☕ Buy Me a Coffee?](https://mepagaumcafe.com.br/micheltlutz/)
 - [💖 Sponsor me](https://github.com/sponsors/micheltlutz)
 
@@ -115,6 +115,7 @@ These credentials reflect a deep understanding of AWS services and the ability t
 - **Mobile Architecture** & iOS/Android Development
 - **AI & Machine Learning** 
 - **Data Science & Analytics**
+- **Security & Forensics** — MAST, Frida, reverse engineering, static/dynamic analysis, security auditing, data privacy
 - **Team Leadership** & Agile Management
 - **Open Source Development**
 - **Technical Mentoring**
@@ -122,4 +123,3 @@ These credentials reflect a deep understanding of AWS services and the ability t
 ---
 
 *"Transforming ideas into code, code into solutions, and solutions into real impact."* 🚀
-
