@@ -55,20 +55,15 @@ let page = HTML(children: [
 ])
 ```
 
-### [Winged-Python](https://github.com/micheltlutz/Winged-Python) 🐍
-> **Independent Python framework for HTML generation**
+### [frida-ios-dump-swift](https://github.com/micheltlutz/frida-ios-dump-swift) 📱
+> **Dump decrypted IPAs from jailbroken iOS devices via Frida**
 
-Similar to Winged-Swift, but for Python. Can be used standalone or integrated with frameworks like FastAPI, Flask, Django, etc.
+**Swift** reimplementation of [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) (Python), using the [frida-swift](https://github.com/frida/frida-swift) bindings. Lists installed apps and extracts decrypted IPAs from jailbroken iOS devices via USB and Frida.
 
 ### [dev-challenge](https://github.com/micheltlutz/dev-challenge) 💻
 > **Software development challenges repository**
 
 Practical challenges for front-end, back-end, and mobile developers, with ready-to-use APIs in Docker for development focus.
-
-### [frida-ios-dump-swift](https://github.com/micheltlutz/frida-ios-dump-swift) 📱
-> **Dump decrypted IPAs from jailbroken iOS devices via Frida**
-
-**Swift** reimplementation of [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) (Python), using the [frida-swift](https://github.com/frida/frida-swift) bindings. Lists installed apps and extracts decrypted IPAs from jailbroken iOS devices via USB and Frida.
 
 ---
 
