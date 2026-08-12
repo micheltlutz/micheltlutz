@@ -12,22 +12,22 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Michel Lütz**, a father, husband, and **Technical Pre-Sales & Mobile Solutions Architecture Expert** with over **20 years of experience** in technology.
+Hi! I'm **Michel Lütz**, a father, husband, **Independent Consultant in Mobile Architecture, Spec-Driven Development (SDD), and AI Agent Orchestration**, and a **Certified Judicial IT Expert (Perito em Informática - CONPEJ)** with over **18 years of experience** in software engineering.
 
-I work within the **[AI/R Company ecosystem](https://aircompany.ai/en/home/)** — a global innovation group focused on Artificial Intelligence — where I serve as a key reference for mobile architecture and technical pre-sales, supporting all group companies in the design, evolution, and validation of AI-oriented mobile solutions.
+Through my consulting practice, I help companies and engineering teams adopt GenAI with governance, modernize complex mobile platforms, and eliminate technical debt without sacrificing delivery speed.
 
-### 🎯 My Main Responsibilities:
+---
 
-- **Defining and validating cross-platform mobile architectures** (iOS, Android, Flutter, React Native) aligned with microservices, scalable APIs, and AI integrations
-- **Leading global technical pre-sales initiatives**, transforming business requirements into clear and sustainable architectural solutions
-- **Supporting multiple AI/R companies** in modernizing mobile applications and implementing Server-Driven UI and super-app ecosystems
-- **Providing technical mentorship** to leaders and engineers, reinforcing engineering excellence, scalability, and system design practices
-- **Collaborating with product, engineering, and AI teams** to accelerate critical deliveries, optimize workflows, and create high-impact digital experiences
-- **Developing internal frameworks and reference guides** to standardize mobile solutions at a global scale
+### 🎯 How I Can Help (Consulting & Advisory):
 
-As an entrepreneur, I founded and led **Masters MX**, a company dedicated to web and mobile development, and I continue to apply that innovative mindset in every new project.
+- **AI Agent Orchestration & SDD Governance:** Implementing versioned specifications, Architecture Decision Records (ADRs), and the *Research → Plan → Implement* cycle directly into repositories to orchestrate AI agents responsibly.
+- **Mobile Architecture Modernization:** Designing scalable targets and migration roadmaps for brownfield applications, Super Apps, and Server-Driven UI (SDUI) ecosystems.
+- **SDLC Agent Readiness Diagnostics:** Evaluating team practices, codebases, and risks to measure true GenAI adoption maturity against observable evidence.
+- **Mobile Security & Forensics (Perícia Judicial):** Conducting security assessments against OWASP MASVS standards and providing official judicial technical expert reports (*laudos e pareceres técnicos* affiliated with CONPEJ).
+- **PoC & MVP Engineering:** Rapidly building proof-of-concepts and MVPs to answer critical technical questions with full governance and repository handovers.
+- **Technical Mentorship & Squad Enablement:** Training tech leads and engineering teams in Spec-Driven Development, system design, and AI-assisted workflows.
 
-Beyond technology, I'm passionate about **motorcycling, photography, and 3D printing**, which I share with my wife through [Casa Vivaro](https://casavivaro.com.br), our 3D design and lifestyle brand.
+As an entrepreneur, I lead **Michel Lütz Treinamentos e Consultoria** and personal creative ventures under **ML Creative Hub**, applying engineering rigor and product vision across every engagement.
 
 ### 🔒 Security & Forensics
 
